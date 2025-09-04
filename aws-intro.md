@@ -1,0 +1,1 @@
+starting AWS 12weeksworkshops in Sep 2025
