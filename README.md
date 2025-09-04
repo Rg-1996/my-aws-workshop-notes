@@ -1,18 +1,16 @@
-# My AWS Workshop Notes 
+# AWS Workshop Notes
 
+This repo contains my notes from the **12 Weeks AWS Workshop**.  
+I’m using it to document what I learn and practice while going through the sessions.
 
-This repository contains my personal notes, learnings, and hands-on exercises while exploring **Amazon Web Services (AWS)**.  
+## What’s Inside
+- `[AWS Intro](./aws-intro.md)` → Notes on AWS basics
+- `[Setup Notes](./setup-notes.md)` → How I set up Git/GitHub and got this repo running
 
-The repo is also a record of my setup journey with Git, GitHub, and related tools — starting from scratch and gradually building a proper workflow.  
+## Progress
+✅ Repo setup complete  
+✅ First notes added  
+🚧 More topics coming soon
 
-## Contents
-- `setup-notes.md` – environment setup, Git/GitHub steps, and initial learnings  
-- More AWS notes will be added progressively  
-
-## Purpose
-- To organize and track my AWS learning journey  
-- To practice Git/GitHub for version control  
-- To have a central reference for future projects and revision  
-
-## Status
-Work in progress 🚀
+## Notes
+This is a work in progress. I’ll keep updating it as I go through the workshop.
